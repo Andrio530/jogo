@@ -1,0 +1,6 @@
+Você entra pela entrada principal. Logo na recepção encontra uma caloura em pânico, pois perdeu o cartão de acesso. Um “Bug de Permissão” bloqueia o caminho.
+
+Você ajuda a resolver com seu conhecimento de TI e recebe um item: Cartão de Acesso Universal.
+
+#06: Seguir junto da caloura para o laboratório de computação
+#07: Ir direto para a biblioteca buscar conhecimento
